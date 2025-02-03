@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+#TempConv{
+    border-radius: 25px;
+    border-style: solid;
+    background-color: ivory;
+    padding: 15px;
+    margin-top: 50px;
+}
+
+.btn{
+    background-color: #FFEBCD;
+    border-color: #F0F8FF;
+}
